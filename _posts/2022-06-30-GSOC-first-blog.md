@@ -24,4 +24,6 @@ Leading up to my first meeting of the coding phase I was sort of panicing - oh n
 
 
 #### Coding - Week 3
-Holy shit `pip install -e` both life changing and frustrating! Don't forget __init__.py file!!!
+
+How do you go about developing a local copy of `spopt`? 
+`pip install -e` both life changing and frustrating! Don't forget __init__.py file!!!
