@@ -1,8 +1,12 @@
 ## GSoC '22 Phase 1.1
 
-### How did I get here? And what is Google Summer of Code (GSoC) anyway?
+### What is Google Summer of Code (GSoC) anyway?
 
-Honestly, twitter. Sometime in February 2022 I had become interested in the open source geospatial stack. I found [this](https://spatial-analytics.readthedocs.io/en/latest/course-info/introduction.html) spatial analytics with python course by Henrikki Tenkanen and started working through the lessons. This introduced me to geopandas; I was quckly impressed with the package and started following Martin Fleischmann on [twitter](https://twitter.com/martinfleis). Luckily for me he posted about the PySAL GSoC projects and I found one that seemed to be an excellent fit! Despite being a serial internet-lurker and having strong feelings of inadequacy I decided to engage with the community (the horror!) and express my intrest in the spatial optimization library enhancements.
+[GSoC](https://summerofcode.withgoogle.com/) is a program, sponsored by Google, to generate interest in and further the development of open-source software packages. Google provides a modest stipend to 'Contributors' who are selected by mentor organizations to contibute to their packages over the summer. Summer 2022 is the first time GSoC has been open to everyone, not just enrolled students!
+
+### How did I get here? And 
+
+Honestly, twitter. Sometime in February 2022 I had become interested in the open-source geospatial stack. I found [this](https://spatial-analytics.readthedocs.io/en/latest/course-info/introduction.html) spatial analytics with python course by Henrikki Tenkanen and started working through the lessons. This introduced me to geopandas; I was quckly impressed with the package and started following Martin Fleischmann on [twitter](https://twitter.com/martinfleis). Luckily for me he posted about the PySAL GSoC projects and I found one that seemed to be an excellent fit! Despite being a serial internet-lurker and having strong feelings of technical inadequacy, I decided to engage with the community (the horror!) and express my intrest in the spatial optimization library enhancements. After chatting a bit with Germano Barcelos, the GSoC 21' `spopt` student, and receiving encouragement and feedback from the `spopt` mentors my proposal was submitted! 
 
 ### Bonding Period
 Introduce myself in the PySAL gitter. Join my first PySAL GSoC student/dev meeting.
