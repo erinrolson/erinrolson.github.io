@@ -14,7 +14,9 @@ After the initial shock of being accepted wore off all of the PySAL students wer
 
 ### Coding begins! Phase 1.1 - Implement LSCPB 
 
-My first task was to implement LSCPB in the `spopt` library. Though I had been studying a great deal leading up to the coding period I was still very nervous about the implementation; there is a lot to learn when you're new to optimization, pulp solvers, github, git, object-oriented programming, and probably other things I'm forgetting! The thing is, I have enough experience stretching myself and working through challenging tasks that I was confident I wouldn't fail, it may be hard, but I wouldn't fail, knowing that certainly helped! 
+My first task was to implement LSCPB in the `spopt` library. Though I had been studying a great deal leading up to the coding period I was still very nervous about the implementation; there is a lot to learn when you're new to optimization, pulp solvers, github, git, object-oriented programming, and probably other things I'm forgetting! The thing is, I have enough experience stretching myself and working through challenging tasks that I was confident I wouldn't fail, it may be hard, but I wouldn't fail. Knowing that certainly helped! 
+
+Leading up to my first meeting of the coding phase I was sort of panicing - oh no, I've been working on this for days and I don't feel like I'm making the progress necessary to stay on track with the program timeline! Que the sending of a *slightly* paniced gitter message to my mentors requesting assistance in our meeting the next day. I wanted to be sure they'd be primed to help me ahead of the meeting if I still hadn't made progress by then, but after a few extra hours of work, I was getting more confident that I had actually built the pulp problem properly, at least mostly! The meeting went well and the metors were very generous toward me and the work I had done as well as providing feedback on github best practices and the next steps I needed to take for solving LSCPB. 
 
 
 I use Anaconda to setup my python environment. I use VS Code to edit the `spopt` package. I like Jupyter notebooks for deving my code.
