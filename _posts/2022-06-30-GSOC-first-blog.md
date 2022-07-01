@@ -22,7 +22,7 @@ Leading up to my first meeting of the coding phase I was sort of panicing - oh n
 
 #### Coding - Week 2
 
-My coding week was much less chaotic and stressful for week two. Much of my time was spent reviewing different formulations for solving LSCPB, integrating a solved LSCP into my development notebook so that I could use the solution as a constraint in the LSCPB problem formulation, and fiddling with my notebook to ensure I had the LSCPB solved properly. During our weekly meeting we discussed how some of my challenges were related to my lack of experience with OOP, Qunshan was able to give me access to [datacamp's Object-Oriented Programming in Python course](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) - a total life saver!
+My coding week was much less chaotic and stressful for week two. Much of my time was spent reviewing different formulations for solving LSCPB, integrating a solved LSCP into my development notebook so that I could use the solution as a constraint in the LSCPB problem formulation, and fiddling with my notebook to ensure I had the LSCPB solved properly. During our weekly meeting we discussed how some of my challenges were related to my lack of experience with OOP, Qunshan was able to give me access to [datacamp's Object-Oriented Programming in Python course](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) - a total life saver! Simply working through the first half of the course gave me the knowledge needed to really understand the `spopt` base.py and coverage.py files with clairity and everything became a quite a bit easier after this point. 
 
 #### Coding - Week 3
 
