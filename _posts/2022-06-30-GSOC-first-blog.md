@@ -14,7 +14,7 @@ After the initial shock of being accepted wore off all of the PySAL students wer
 
 ### Coding begins! Phase 1.1 - Implement LSCPB 
 
-My first task was to implement LSCPB in the `spopt` library. Though I had been studying a great deal leading up to the coding period I was still very nervous about the implementation; there is a lot to learn when you're new to optimization, pulp solvers, github, git, object-oriented programming, and probably other things I'm forgetting! Having experience bootstrapping a small businessI have enough experience stretching myself and working through challenging tasks that I was confident I wouldn't fail, it may be hard, but I wouldn't fail. Knowing that certainly helped! 
+My first task was to implement LSCPB in the `spopt` library. Though I had been studying a great deal leading up to the coding period I was still very nervous about the implementation; there is a lot to learn when you're new to optimization, pulp solvers, github, git, object-oriented programming, and probably other things I'm forgetting! Having the experience of bootstrapping and operating a small business, I'm accostomed to stretching myself and working through challenging tasks - so I was confident I wouldn't fail. It may be hard, but I wouldn't fail. Knowing that certainly helped! 
 
 #### Coding - Week 1
 
