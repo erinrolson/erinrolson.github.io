@@ -2,7 +2,7 @@
 
 ### What is Google Summer of Code (GSoC) anyway?
 
-[GSoC](https://summerofcode.withgoogle.com/) is a program, sponsored by Google, to generate interest in and further the development of open-source software packages. Google provides a modest stipend to 'Contributors' who are selected by mentor organizations to contibute to their packages over the summer. Summer 2022 is the first time GSoC has been open to everyone, not just enrolled students!
+[GSoC](https://summerofcode.withgoogle.com/) is a program, sponsored by Google, to generate interest in and further the development of open-source software packages. Google provides a modest stipend to 'Contributors' who are selected by mentor organizations to contibute to their packages over the summer. Summer 2022 is the first time GSoC has been open to everyone, not just enrolled students, which I'm happy to be a beneficiary of!
 
 ### How did I get here?
 
