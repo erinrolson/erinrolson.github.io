@@ -26,5 +26,7 @@ My coding week was much less chaotic and stressful for week two. Much of my time
 
 #### Coding - Week 3
 
+During week 3 my mentors encouraged me to continue upskilling on OOP and try implementing my new knowledge in the `spopt` package! To do this I decided to create a new branch of the package and clone it to work on locally. To begin I had a bit of a silly workflow because I didn't know how to set up my development environemt to 'see' my locally installed package that I was making continuous changes to. It went a bit like this: I had the `spopt` files opened in VS Code, I made changes to them, relized I had no idea how to test my code, copy/pasted my new LSCPB class into my notebook and tested my code there. Not exactly efficient! More experienced developers are very familiar with these workflows, but this was my first time and I was making it up as I went along. 
+
 How do you go about developing a local copy of `spopt`? 
 `pip install -e` both life changing and frustrating! Don't forget __init__.py file!!!
