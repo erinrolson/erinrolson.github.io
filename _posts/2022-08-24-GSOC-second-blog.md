@@ -10,8 +10,8 @@ This week was my designated week off, but I still worked a small amount and atte
 
 ## Coding - Week 5
 
-Back from my time off I was ready to jump in and polish off the PR - enter the environment issues. I think anyone who has spent time programming has probably run up against environment / package dependecy / version issues - this seems to be compounded when dealing with the geospatial stack. Suffice to say I lost a good bit of time troubleshooting, testing, comparing, and eventually rebuilding my environment (probably more than once). A lot of the pain I've experienced in getting my environment set up is no doubt realated to my lack of experience with the packages needed, expectations for instal times, etc., but also, sometimes packages don't install properly! `conda install --channel conda-forge` use it. And if that doesn't work, go straight to the package's github repo. Lesson learned.
+Back from my time off I was ready to jump in and polish off the PR - enter the environment issues. I think anyone who has spent time programming has probably run up against environment / package dependecy / version issues - this seems to be compounded when dealing with the geospatial stack. Suffice to say I lost a good bit of time troubleshooting, testing, comparing, and eventually rebuilding my environment (probably more than once). A lot of the pain I've experienced in getting my environment set up is no doubt realated to my lack of experience with the packages needed, expectations for instal times, etc., but also, sometimes packages don't install properly! `conda install --channel conda-forge` use it. And if that doesn't work, go straight to the package's github repo and download it. Lesson learned.
 
-## Coding - Week 6
-
+## Coding - Week 6 & 7
+With my newly minted environment up and running I was able to get all of the tests to pass and move onto creating the notebook. 
 
