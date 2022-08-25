@@ -2,4 +2,4 @@
 
 ### Phase 1.2 - Implement P-Dispersion
 
-#### Coding Week - 8
+#### Coding - Week 8
