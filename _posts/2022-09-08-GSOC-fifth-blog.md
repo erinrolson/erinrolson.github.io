@@ -10,6 +10,6 @@ My [second pull request](https://github.com/pysal/spopt/pull/268) implemented th
 My [third pull request](https://github.com/pysal/spopt/pull/273), which will be merged after the official GSoC ‘22 timeline, adds capacity constraints as a parameter to the existing LSCP class. The addition of the capacity constraints will allow for the class to solve more realistically for real world location allocation situations and fill an enhancement gap that users have expressed interest in. Though this implementation may present as a simple enhancement to an existing class, it was a bit tricky and required input from my mentor [Levi Wolf](https://github.com/ljwolf) on both implementation strategy and properly building what amounts to, essentially, a new PuLP model to represent the problem properly. 
 
 ### What's left?
-Merging my third pull request for the capacity constraints is a top priority for me. I’d like the pull request to mirror my previouse implementations. This will include writing tests and creating a full set of resources and documentation for the LSCP capacity parameters.
+Merging my third pull request for the capacity constraints is a top priority for me. I’d like the pull request to mirror my previous implementations. This will include writing tests and creating a full set of rnotebooks and documentation for the LSCP capacity parameters.
 
 
