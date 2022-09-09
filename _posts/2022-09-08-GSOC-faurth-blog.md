@@ -1,2 +1,7 @@
 ## GSoC '22 Phase 2.1
-Facility capacity implementation
+
+### Phase 2.1 - Implement Facility Capacity (LSCP)
+This implementation will be my third and final GSoC pull request for the summer. Looking back at where I was at at the beginning of the summer, its exciting to see my progress and how much more comfortable I am with the varied tasks of creating new `spopt` models - even if formulating the LP problems in PuLP is still a bit mind bending. I only have a couple of weeks to spend on the facility capacities but I'm confident I can add them to the LSCP class and have a polished PR ready to merge by mid-september. 
+
+#### Coding - Week 11
+I spent the first couple of days doing a 'rough' attempt at implementing capacities on the existing LSCP class. To get started I compared the LSCP formulation to capacitated formulation to try identify what existing model building code I could use and what new code would need to be written. I focused primarily on what was certainly a unique constraint and looked a bit tricky to implement. I've learned it's best to just get going with an implementation the best you can, there are fundamental changes that will need to be made to a class like adding new object attributes or parameters to class methods or even notebooks to be created - if the LP formulation isn't 100% ready that's ok, it's one part of a larger set of changes. I went into my Wednesday morning meetng with a demo notebook so Levi could give me feedback on my implementation, Germano was also there and able to provide additional insight into methods in the LocationModelBuilder class that I would be able to use.
